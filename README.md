@@ -1,6 +1,6 @@
 # 📰 News Website
 
-A modern **Angular-based news aggregation platform** that fetches and displays the latest headlines, business, and technology news using the **NewsAPI**. This project provides users with a simple, responsive interface to stay updated with the world’s top stories.
+A modern **Angular-based news aggregation platform** that fetches and displays the latest headlines, business, and technology news using the **NewsAPI**. This project offers users a simple and responsive interface to stay up-to-date with the world’s top stories.
 
 ---
 
@@ -124,7 +124,7 @@ The output will be located in the `dist/` directory.
 
 ## 👨‍💻 Author
 
-**Othman Shbeir**
+**Eng.Othman Shbeir**
 - 📧 [ahmedshbeir30@gmail.com](mailto:uthmanshbeir@gmail.com)
 - 🌐 [Portfolio](https://othman-shbeir.github.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/othman-shbeir)
