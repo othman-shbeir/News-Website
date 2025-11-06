@@ -52,13 +52,13 @@ This Angular project follows a **modular architecture**, where each news categor
 
 ### Components Overview
 
-* **`TopheadingComponent`** – Fetches and displays top global headlines.
-* **`TechNewsComponent`** – Displays technology-related news articles.
-* **`BusinessNewsComponent`** – Focuses on business and financial news.
+* **`TopheadingComponent`**: Fetches and displays top global headlines.
+* **`TechNewsComponent`**: Displays technology-related news articles.
+* **`BusinessNewsComponent`**: Focuses on business and financial news.
 
 ### Service Layer
 
-* **`NewsApiServicesService`** – Handles all API requests and exposes observables to components for async data updates.
+* **`NewsApiServicesService`**: Handles all API requests and exposes observables to components for async data updates.
 
 ---
 
@@ -125,7 +125,7 @@ The output will be located in the `dist/` directory.
 ## 👨‍💻 Author
 
 **Eng.Othman Shbeir**
-- 📧 [ahmedshbeir30@gmail.com](mailto:uthmanshbeir@gmail.com)
+- 📧 [Email](mailto:uthmanshbeir@gmail.com)
 - 🌐 [Portfolio](https://othman-shbeir.github.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/othman-shbeir)
 
